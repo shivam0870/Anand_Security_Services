@@ -115,9 +115,9 @@ const contactConfig = {
     description: "Our mission is to protect, defend, and secure our clients, ensuring peace of mind and safety in every aspect of their lives.. ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-    YOUR_SERVICE_ID: "service_ukjltid",
-    YOUR_TEMPLATE_ID: "template_7c4j6ux",
-    YOUR_USER_ID: "N3F2GFMR0Y0N3wVOU",
+    YOUR_SERVICE_ID: "service_tyjuhug",
+    YOUR_TEMPLATE_ID: "ejs-test-mail-service",
+    YOUR_USER_ID: "tB4DJRPwfwW2KOWA8",
 };
 
 const socialprofils = {
